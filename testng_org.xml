@@ -1,0 +1,20 @@
+<suite name="testngTest">
+<test name="test1">
+<!--  <groups>
+<run>
+<include name="smoke"></include>
+</run>
+</groups>-->
+<classes>
+<class name="seleniumDemo.checkTestNg"></class>
+<class name="seleniumDemo.checktest3"></class>
+</classes>
+</test>
+
+<test name="test2">
+<classes>
+<class name="seleniumDemo.checktest2"></class>
+</classes>
+</test>
+
+</suite>

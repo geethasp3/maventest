@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-25T12:59:05 IST" name="Test" finished-at="2022-03-25T12:59:06 IST" duration-ms="105">
+    <groups>
+    </groups>
+    <test started-at="2022-03-25T12:59:05 IST" name="test2" finished-at="2022-03-25T12:59:06 IST" duration-ms="39">
+      <class name="seleniumDemo.testList">
+        <test-method signature="sampletest()[pri:0, instance:seleniumDemo.testList@120f102b]" started-at="2022-03-25T12:59:05 IST" name="sampletest" finished-at="2022-03-25T12:59:05 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- seleniumDemo.testList -->
+    </test> <!-- test2 -->
+    <test started-at="2022-03-25T12:59:06 IST" name="test1" finished-at="2022-03-25T12:59:06 IST" duration-ms="4">
+      <class name="seleniumDemo.browsertest">
+        <test-method signature="test(java.lang.String)[pri:0, instance:seleniumDemo.browsertest@3f6b0be5]" started-at="2022-03-25T12:59:06 IST" name="test" finished-at="2022-03-25T12:59:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- seleniumDemo.browsertest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Test -->
+</testng-results>
